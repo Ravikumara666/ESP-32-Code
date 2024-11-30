@@ -6,14 +6,12 @@
 #include <addons/TokenHelper.h>
 
 // 1. WiFi and Firebase setup
-#define WIFI_SSID "iPhone"
-#define WIFI_PASSWORD "123456789"
-
-// 2. Firebase project credentials
-#define API_KEY "AIzaSyDO_GRLkJ3vRE4c0zh009xpO9J32mB9h8g"
-#define DATABASE_URL "https://new-realtime-3b520-default-rtdb.asia-southeast1.firebasedatabase.app/"
-#define USER_EMAIL "doddamaniravi115@gmail.com"
-#define USER_PASSWORD "Dsce@1234"
+#define WIFI_SSID "YourWiFiNetwork"
+#define WIFI_PASSWORD "YourWiFiPassword"
+#define API_KEY "YourAPIKey123456789"
+#define DATABASE_URL "https://example-database.firebaseio.com/"
+#define USER_EMAIL "example@example.com"
+#define USER_PASSWORD "ExamplePassword123"
 
 // Firebase objects
 FirebaseData fbdo;
